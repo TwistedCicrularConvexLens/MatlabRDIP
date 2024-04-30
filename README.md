@@ -1,6 +1,11 @@
 # MatlabRDIP
 This repository was created to demonstrate the control of an Rotary Double Inverted Pendulum.
 
+Needed Toolboxes:
+https://uk.mathworks.com/products/symbolic.html
+https://uk.mathworks.com/products/simscape-multibody.html
+https://www.mathworks.com/products/control.html
+
 The main notable files are:
 
 (Linearization.mlx)
